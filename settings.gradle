@@ -1,0 +1,2 @@
+rootProject.name='TheCocktailDbApi'
+include ':app'
