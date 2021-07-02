@@ -13,6 +13,6 @@ package com.frogobox.frogothecocktaildbapi
  *
  */
 
-class ConsumeTheCocktailDbApi : ConsumeTheCocktailDbApiView {
+class ConsumeTheCocktailDbApi : IConsumeTheCocktailDbApi {
 
 }

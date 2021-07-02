@@ -13,7 +13,7 @@ package com.frogobox.frogothecocktaildbapi
  *
  */
 
-interface ConsumeTheCocktailDbApiView {
+interface IConsumeTheCocktailDbApi {
 
 
 }
