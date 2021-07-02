@@ -1,4 +1,4 @@
-## consumable-code-the-cocktail-db-api By AmirIsBack
+## consumable-code-the-cocktail-db-api
 - v1.0.0 - Development
 - Documentation API [Click Here](https://www.thecocktaildb.com/api.php)
 - Release Soon
